@@ -12,12 +12,6 @@ Uma função de saudação é fornecida para você no editor abaixo. Tem um par�
 
 # Formato de entrada
 
-
-Tipo de dados |	Parâmetro |	Descrição
-:______________:|:_____________________:|:___________________________________________________________________________:
-string		      | *parameterVariable* | Uma única linha de texto contendo uma ou mais palavras separadas por espaço.
-
-
 | Tipo de dados   |      Parâmetro      |  Descrição |
 |----------|:-------------:|------:|
 | string |  *parameterVariable* | Uma única linha de texto contendo uma ou mais palavras separadas por espaço. |
