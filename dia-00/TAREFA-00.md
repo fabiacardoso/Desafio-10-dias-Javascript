@@ -23,11 +23,26 @@ Imprima as seguintes duas linhas de saída:
 1. Na primeira linha, imprima Hello, World!(isso é fornecido para você no editor).
 2. Na segunda linha, imprima o conteúdo de *parameterVariable*.
 
-*Amostra de entrada 0*
+*-> Amostra de entrada 0*
 
 ```
 Bem-vindo ao 10 dias de JavaScript!
+```
+
+*-> Saída de amostra 0*
 
 ```
+Olá Mundo! 
+Bem-vindo ao 10 dias de JavaScript!
+```
+
+*Explicação 0*
+
+Imprimimos duas linhas de saída:
+
+1. Imprimimos a string literal Hello, World!usando o código fornecido no editor.
+2. O valor de *parameterVariable* passado para a nossa função principal neste Caso de Amostra foi Welcome to 10 Days of JavaScript!. Em seguida, passamos nossa variável para console.log , que imprimiu o conteúdo de *parameterVariable*.
+
+
 
 
